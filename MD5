@@ -1,6 +1,6 @@
-4f3d19b57f978d0bb0edff0123923a04 *DESCRIPTION
-02f84fda39cb3ddcfb3da2fefce58f5a *NAMESPACE
-2e542d06affa4e05dcb8337a71594231 *NEWS.md
+2f533c0784187537eda6891d0d890e8c *DESCRIPTION
+1195314678ff73bc54d3b7caf1490c02 *NAMESPACE
+6127d81c4f9d1e96f1d68c0f9345fdb3 *NEWS.md
 a96ad87a669f3ec0950f3d5424863ded *R/apisensr-package.R
 84f296c4f49a899ba9d166fadbb50e6e *R/app_config.R
 fd7ee080d23d857fdd7a592456437c4b *R/app_server.R
@@ -8,11 +8,11 @@ bffafe24905b617307b015e89512e59f *R/app_ui.R
 48421374415156d76ed47b788e61f74c *R/fct_draw_dag.R
 c0a2fb5308e28f931e87f6280343da85 *R/golem_utils_server.R
 cd471f0244c3be04271fc2c531f67422 *R/golem_utils_ui.R
-a0de7a2ab25f69807b555480353e288e *R/mod_about.R
+11166dd4824b39846eab845a7dd97b10 *R/mod_about.R
 3089b60a83293c2fca0c3e83c85233e6 *R/mod_analysis.R
 c6604f5c86dbf1107dbdc9c7184d136f *R/mod_notable.R
 1443b2a31d3c2752cf100d1804c62a8d *R/mod_parms.R
-9dbb136336e755aca0055c48ff85cc6d *R/mod_prob.R
+ba9d4ba481035fc33c2bec1afa75e392 *R/mod_prob.R
 c7be83c9e176f78229b07a475efda8cc *R/run_app.R
 450d439d86f85c1c85deade723782412 *README.md
 76ea72284d1d2f1d18444f43e80ceace *inst/CITATION
